@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mr-Raizada
-- 👀 I’m interested in Developing and creating more
-- 🌱 I’m currently learning from begining cs  
-- 💞️ I’m looking to collaborate on enthustic learning and developing skills
+- 👀 Learning ......
 - 📫 How to reach me - mail would be more than enough unhindered.passion@gmail.com
 
 <!---
